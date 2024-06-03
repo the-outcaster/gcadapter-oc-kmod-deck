@@ -2,7 +2,7 @@
 
 clear
 
-echo -e "GCC Adapter Overclocking script by Linux Gaming Central.\n"
+echo -e "GCC Adapter Overclocking script by The Outcaster's Notebook.\n"
 sleep 1
 
 title="GC Adapter OC Kmod"
